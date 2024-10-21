@@ -1,4 +1,4 @@
-<h3 align="center">A hardware Design and Embedded Software</h3>
+<h3 align="center">Hardware Design and Embedded Software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nzrcn&label=Profile%20views&color=0e75b6&style=flat" alt="nzrcn" /> </p>
 
