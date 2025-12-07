@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **robotic and automotive projects (hardware design and programming).**
+- 🔭 I’m currently working on **avionic, robotic, and automotive projects (hardware design, verification, and programming).**
 
 - 🌱 I’m currently learning **control**
 
-- 👯 I’m looking to collaborate on **robotic projects.**
+- 👯 I’m looking to collaborate on **avionics and robotic projects.**
 
 - 👨‍💻 Some projects are available at [https://www.linkedin.com/in/nzrcn/](https://www.linkedin.com/in/nzrcn/)
 
